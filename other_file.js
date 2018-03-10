@@ -1,3 +1,3 @@
-var index = index.js
+var index = requirej()
 console.log(name)
 
