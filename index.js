@@ -1,4 +1,4 @@
-var name = "Joe"
+var name = "Susain"
 var height = "70"
 
 if (name === "Susan") {
